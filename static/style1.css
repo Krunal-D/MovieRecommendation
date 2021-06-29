@@ -1,0 +1,80 @@
+.container {
+    width:420px;
+    height: auto;
+    margin: 0 auto;
+    background: #FFF;
+    box-shadow: 0px 9px 13px 5px;
+
+
+}
+
+body {
+
+    background: rgb(177, 208, 228);
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+* {
+
+    box-sizing: border-box;
+  
+  }
+  .container {
+
+    padding: 12px;
+  
+    background-color: white);
+  
+  }
+
+
+  input {
+
+    width: 100%;
+  
+    padding: 15px;
+  
+    margin: 5px 0 22px 0;
+  
+    display: inline-block;
+  
+    border: none;
+  
+    background: #f1f1f1;
+  
+  }
+  
+ 
+ .submit {
+
+    background-color: rgb(20, 34, 221);
+  
+    color: white;
+  
+    padding: 16px 20px;
+  
+    margin: 8px 0;
+  
+    border: none;
+  
+    cursor: pointer;
+  
+    width: 100%;
+  
+    opacity: 0.7;
+  
+  }
+  
+   
+  
+  .submit:hover {
+  
+    opacity: 1;
+  
+  }
+  
+  
+  
+    
